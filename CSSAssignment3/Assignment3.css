@@ -122,30 +122,35 @@ input{
     justify-content: space-between;
 }
 .middle_left{
+    font-style: italic;
     padding: 10px;
     text-align: center;
     margin: 5px;
     width: 400px;
     height: 33vh;
     border-radius: 10px;
-    background-color: beige;
+    background-color: rgb(238, 224, 144);
+
 }
 .middle_right{
+    font-style: italic;
+
     padding: 10px;
     margin: 5px;
     text-align: center;
     width: 400px;
     height: 33vh;
     border-radius: 10px;
-    background-color: beige;
+    background-color: rgb(238, 224, 144);
+
 
 
 }
 .lower{
     margin-inline: 5px;
-    
+    font-style: italic;
     text-align: center;
-    background-color: beige;
+    background-color: rgb(238, 224, 144);
     width: 99%;
     height: 30vh;
 }
